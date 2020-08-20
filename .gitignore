@@ -1,1 +1,16 @@
 /root/*.project
+/root/.settings
+/root/commonP/.project
+/root/commonP/.settings
+/root/commonP/commonBase/.classpath
+/root/commonP/commonBase/.project
+/root/commonP/commonBase/.settings
+/root/commonP/commonBase/target
+/root/commonP/commons/.classpath
+/root/commonP/commons/.project
+/root/commonP/commons/.settings
+/root/commonP/commons/target
+/root/monomerProjectA/.classpath
+/root/monomerProjectA/.project
+/root/monomerProjectA/.settings
+/root/monomerProjectA/target
