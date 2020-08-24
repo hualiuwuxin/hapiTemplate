@@ -16,8 +16,8 @@ import com.hapi.common.exception.RequestFailException;
 public class OssStsUtils {
 	
 	private static String endpoint = "sts.aliyuncs.com";
-	private static String accessKeyId = "LTAI4GKCBW15d8so7qd1p2U8";
-	private static String accessKeySecret =  "g8L9d8R6mTjgpOYMZqaYCeedmBBVZX";
+	private static String accessKeyId = "";
+	private static String accessKeySecret =  "";
 	private static String roleArn = "acs:ram::1505378023454326:role/ramossststfmm-dev";
 	
 	 /**
