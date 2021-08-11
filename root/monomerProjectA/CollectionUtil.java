@@ -67,6 +67,20 @@ public class CollectionUtil {
 		
 	}
 	
+	public void  t2() {
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+	
+	
 	
 	/**
 	 * 在一个集合里面寻找 指定  唯一标志的 的元素 并返回，没有返回null(默认的唯一主键名为"id")
