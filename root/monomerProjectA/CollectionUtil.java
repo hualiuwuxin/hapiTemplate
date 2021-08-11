@@ -53,7 +53,16 @@ public class CollectionUtil {
 	}
 	
 	
-	public void  t1() {
+	public void  t2() {
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		
 	}
 	
